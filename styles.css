@@ -1,0 +1,46 @@
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#myChart {
+    border-radius: 5px;
+}
+
+.chart-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.chart-legend {
+    font-size: 16px;
+}
+body {
+    background-image: url('https://assets-global.website-files.com/5e73a1e3ba24f2cd5dd2232a/64a5cc610f619c6fac0a4e51_5f7900fd65c6295756765498_grafico2.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.menu ul {
+    text-align: center; /* Centraliza os elementos na div */
+    padding: 0; /* Remove o preenchimento padrão da lista */
+}
+
+.menu li {
+    display: inline-block; /* Coloca os elementos lado a lado */
+    margin: 0 10px; /* Adiciona margem entre os elementos para separação */
+}
+
+/* Estilo para os links */
+.menu a {
+    text-decoration: none; /* Remove o sublinhado padrão dos links */
+    color: #333; /* Cor do texto para os links */
+}
+
